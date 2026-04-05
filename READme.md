@@ -16,9 +16,7 @@ Welcome to the Face Detection app! 👋 This app uses **OpenCV** and **Streamlit
 ## 📂 Project Structure
 
 Face_Detection/  
-├── App.py                  # (Optional) Entry point script  
-├── FACE_detect.py          # Face detection logic using OpenCV  
-├── FD_Str.py               # Streamlit frontend app  
+├── App.py                  # App Code  
 ├── requirements.txt        # Python dependencies  
 ├── runtime.txt             # Python version config  
 ├── setup.sh                # (Optional) Setup script for environments  
